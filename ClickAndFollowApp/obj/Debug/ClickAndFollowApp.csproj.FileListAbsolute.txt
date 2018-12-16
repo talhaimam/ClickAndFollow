@@ -1,0 +1,15 @@
+c:\users\dell\documents\visual studio 2017\Projects\ClickAndFollowApp\ClickAndFollowApp\bin\Debug\ClickAndFollowApp.exe.config
+c:\users\dell\documents\visual studio 2017\Projects\ClickAndFollowApp\ClickAndFollowApp\bin\Debug\ClickAndFollowApp.exe
+c:\users\dell\documents\visual studio 2017\Projects\ClickAndFollowApp\ClickAndFollowApp\bin\Debug\ClickAndFollowApp.pdb
+c:\users\dell\documents\visual studio 2017\Projects\ClickAndFollowApp\ClickAndFollowApp\obj\Debug\ClickAndFollowApp.csprojResolveAssemblyReference.cache
+c:\users\dell\documents\visual studio 2017\Projects\ClickAndFollowApp\ClickAndFollowApp\obj\Debug\ClickAndFollowApp.Main.resources
+c:\users\dell\documents\visual studio 2017\Projects\ClickAndFollowApp\ClickAndFollowApp\obj\Debug\ClickAndFollowApp.Properties.Resources.resources
+c:\users\dell\documents\visual studio 2017\Projects\ClickAndFollowApp\ClickAndFollowApp\obj\Debug\ClickAndFollowApp.csproj.GenerateResource.Cache
+c:\users\dell\documents\visual studio 2017\Projects\ClickAndFollowApp\ClickAndFollowApp\obj\Debug\ClickAndFollowApp.exe
+c:\users\dell\documents\visual studio 2017\Projects\ClickAndFollowApp\ClickAndFollowApp\obj\Debug\ClickAndFollowApp.pdb
+c:\users\dell\documents\visual studio 2017\Projects\ClickAndFollowApp\ClickAndFollowApp\bin\Debug\Google.Protobuf.dll
+c:\users\dell\documents\visual studio 2017\Projects\ClickAndFollowApp\ClickAndFollowApp\bin\Debug\MySql.Data.dll
+c:\users\dell\documents\visual studio 2017\Projects\ClickAndFollowApp\ClickAndFollowApp\bin\Debug\NLog.dll
+c:\users\dell\documents\visual studio 2017\Projects\ClickAndFollowApp\ClickAndFollowApp\bin\Debug\Google.Protobuf.xml
+c:\users\dell\documents\visual studio 2017\Projects\ClickAndFollowApp\ClickAndFollowApp\bin\Debug\MySql.Data.xml
+c:\users\dell\documents\visual studio 2017\Projects\ClickAndFollowApp\ClickAndFollowApp\bin\Debug\NLog.xml
